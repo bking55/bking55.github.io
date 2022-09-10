@@ -1,1 +1,13 @@
-yo 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>welcome to my page</title>
+  </head>
+  <body>
+    <h1>My b kings site </h1>
+    <p>Welcome to my site</p>
+    <p><a href=></a></p>
+    <p><a href=>https://bking55.github.io/amuse.html>Amuse Me</a></p>
+  </body>
+</html>
