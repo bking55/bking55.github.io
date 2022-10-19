@@ -1,1 +1,11 @@
-
+:root
+{
+  --favocolor rgb(0,0,225
+}
+h1
+{
+  text-align: center;
+  color:var(--favcolor);
+  background-color: rgb(0,0,50);
+   font-size: 38px
+}
