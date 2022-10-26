@@ -1,13 +1,13 @@
 h1
 {
   font-size: 22px;
-  color: blue; 
+  color: "blue"; 
   font-family: "times new roman, times, serif";
-  background-color: black;
+  background-color: "black";
 }
 body 
 { 
-  background-image: url:("https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Northern_Colorado_Bears_logo.svg/640px-Northern_Colorado_Bears_logo.svg.png");
+  background-image: url:(https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Northern_Colorado_Bears_logo.svg/640px-Northern_Colorado_Bears_logo.svg.png);
    font-size: 15px;
   font-family: "times new roman, times, serif";
 }
@@ -15,14 +15,14 @@ p
 {
   font-size: 14px;
   font-family: "times new roman, times, serif";
-  color: blue;
+  color: "blue";
   
 }
 a
 {
-   background-color: black;
+   background-color: "black";
   font-family: "times new roman, times, serif";
-  color: blue;
+  color: "blue";
 }
 
 
