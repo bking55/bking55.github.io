@@ -12,7 +12,7 @@ h1
 	}
 p
 {
-  font-size: 14px;
+  font-size: 14pt;
   font-family: "times new roman, times, serif";
   color: red; 
 }
@@ -21,6 +21,10 @@ a
   background: radial-gradient(circle, red, white);
   font-family: "times new roman, times, serif";
   color: white;
+}
+ul
+{
+	font-size: 15pt
 }
 
 
