@@ -1,1 +1,18 @@
-yo this is the main css page 
+h1
+{
+  font-size: 22px;
+  color: blue; 
+  font-family: "times new roman, times, serif;
+  background-color: black;
+}
+body 
+{ 
+  background-image: url(https://images.app.goo.gl/erLpHz5LBVN4j1aE8);
+   font-size: 14px;
+  font-family: "times new roman, times, serif;
+}
+p
+{
+  font-size: 13px;
+  font-family: "times new roman, times, serif;  
+}
