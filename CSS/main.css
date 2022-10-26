@@ -20,7 +20,7 @@ p
 }
 a
 {
-    background: radial-gradient(circle, blue, white);
+    background: radial-gradient(circle, red, white);
   font-family: "times new roman, times, serif";
   color: white;
 }
