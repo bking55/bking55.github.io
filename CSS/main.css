@@ -16,9 +16,12 @@ p
   font-size: 14px;
   font-family: "times new roman, times, serif";  
 }
-link
+a
 {
-   background-image: url= ;
+   background-color: black;
+  font-family: "times new roman, times, serif";
+  color: white;
+}
 
 
 
