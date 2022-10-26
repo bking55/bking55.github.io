@@ -3,12 +3,12 @@ h1
   font-size: 22px;
   color: blue; 
   font-family: "times new roman, times, serif";
-  background-color: black;
+  background: radial-gradient(circle, black, white);
 }
 body 
 { 
- background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Northern_Colorado_Bears_logo.svg/640px-Northern_Colorado_Bears_logo.svg.png");
- background-color: #cccccc;
+ 
+ background: radial-gradient(circle, blue, white);
    font-size: 15px;
   font-family: "times new roman, times, serif";
 }
@@ -21,7 +21,7 @@ p
 }
 a
 {
-   background-color: purple;
+   background: radial-gradient(circle, red, white);
   font-family: "times new roman, times, serif";
   color: white;
 }
