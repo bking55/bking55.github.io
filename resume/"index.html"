@@ -2,10 +2,51 @@
 <!DOCTYPE html>
 <html lang=en>
       <head>
-        <title>Page Template</title>
-            <link rel= "stylesheet" type="text/css" href="css/style.css">
+        <title>My Resume</title>
+        <link rel= "stylesheet" type="text/css" href="css/style.css">
       </head>
     <body>
-        <h1> Page title </h1>
+        <nav>
+             <h1> Resume </h1>
+             <ul>
+                  <li><a href=#contactinfo >Contact Info</a></li>
+                  <li><a href=#education >Education</a></li>
+                  <li><a href=#experience >Experience</a></li>
+                  <li><a href=#skills >Skills</a></li>
+             </ul>
+        </nav>
+        <section id="contactinfo">
+        <h2> Contact Info <h2>
+        <ul>
+            <li>Phone:970-999-9999</li>
+            <li>Email: enge5412@bears.unco.edu</li>
+        </ul>
+        </section>
+         <section id="education">
+         <h2> Education <h2>
+        <ul>
+            <li>
+                  <h3>University of Northern Colorado <span class="date">(may 2020)</h3>
+                  <ul>
+                         <li>Major: SES</li>
+                         <li>Minor: Business</li>
+                  </ul>
+              </li>
+         </ul>
+        </section>
+         <section id="experience">
+        <h2>Experience<h2>
+        <ul>
+            <li>No prior work experience</li>
+        </ul>
+        </section>
+         <section id="skills">
+        <h2>Skills<h2>
+        <ul>
+            <li>great communicator:ability to make anyone feel confortable and making think that there issue is thje only issue  </li>
+             <li>ran  and managed a group of my peers on the wrestling team  </li>
+              <li>simulated titcketing  prices and setting them   </li>
+        </ul>
+        </section>
    </body>
 </html>
