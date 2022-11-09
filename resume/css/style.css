@@ -1,26 +1,37 @@
 body {
-	background-color: blue;
+	background-color:rgb(57,80,102) ;
 }
 
 h1	
-	{
-	text-align: center;
-  color: rgb(252,218,218);
-   	font-size: 38pt; 
-	}
-p
 {
-  font-size: 14pt;
-  font-family: "times new roman, times, serif";
+text-align: center;
+color: rgb(252,218,218);
+font-size: 48pt; 
+}
+section h2
+{
+  font-size: 28pt;
+  margin : 5px;
   color: black; 
 }
-
+section
 {
-  background: radial-gradient(circle, red, white);
-  font-family: "times new roman, times, serif";
-  color: white;
+  border: 4px soild black;
+  margin : 20px;
+  padding : 10px
+}
+.date
+{
+  color:goldered;
 }
 ul
 {
-	font-size: 15pt;
+font-size: 18pt;
 }
+nav a
+{
+font-size: 20pt;
+font-weight:bold;
+color: red;
+}
+
