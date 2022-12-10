@@ -6,4 +6,11 @@ h1
 }
 h2
 {
-  
+ font-size: 28px ;
+ background-color: rgb(0,0,125);
+}
+p
+{ 
+  font: times new roman;
+  font-size: 14px
+}
